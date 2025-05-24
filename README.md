@@ -36,3 +36,42 @@ Here’s my progress so far:
 - Focus: SOC Analyst skills (Threat Detection, Incident Response, Log Analysis)
 
 Stay tuned for more updates as I continue learning and growing in this field!
+# My SOC Analyst Learning Journey
+
+I’ve recently started exploring the field of **Cybersecurity**, with a focus on becoming a **SOC Analyst**.
+
+To begin my journey, I enrolled in the **Cyber Talents SOC Analyst course**, which covers key topics such as:
+
+- Threat Detection  
+- Incident Response  
+- Log Analysis  
+
+---
+
+## ✅ Progress
+
+| Section | Title                      | Status       |
+|---------|----------------------------|--------------|
+| EEC 1   | Introduction to SOC        | ✅ Completed |
+| EEC 2   | Cyber Threats Overview     | ✅ Completed |
+| EEC 3   | Log Analysis Basics        | ✅ Completed |
+| EEC 4   | SIEM Tools Introduction    | ✅ Completed |
+| EEC 5   | Coming Soon                | ⏳ In Progress |
+| EEC 6   | Coming Soon                | ⏳ Pending |
+| EEC 7   | Coming Soon                | ⏳ Pending |
+| EEC 8   | Coming Soon                | ⏳ Pending |
+| EEC 9   | Coming Soon                | ⏳ Pending |
+| EEC 10  | Coming Soon                | ⏳ Pending |
+| EEC 11  | Final Evaluation / Project | ⏳ Pending |
+
+---
+
+## About the Course
+
+- **Provider**: [Cyber Talents](https://cybertalents.com)
+- **Focus Areas**: SOC Analyst skills like Threat Detection, Incident Response, SIEM, and Log Analysis.
+
+---
+
+I'm excited to continue learning and growing each day.  
+**Stay tuned for more updates!**
